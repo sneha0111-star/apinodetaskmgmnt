@@ -33,8 +33,15 @@ A RESTful API built with Node.js and Express for handling user authentication an
 
 
 # Clone the repository
-git clone https://github.com/your-username/task-api.git
+git clone https://github.com/sneha0111-star/apinodetaskmgmnt.git
 cd task-api
+
+# Development
+npm run dev
+
+# Production
+npm start
+
 
 # Install dependencies
 npm install
